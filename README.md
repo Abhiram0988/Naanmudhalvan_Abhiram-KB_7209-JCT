@@ -1,3 +1,22 @@
+# NotesSharing_webApp_NM_FullStackPDjango_Project
+
+Project Developed by:
+
+Name : abhiram KB
+
+Regnumber : 720921244001
+
+College name : JCT College of Engineering and technology Coimbatore
+
+
+Login credentials:
+
+
+Username: admin
+
+Password: admin
+
+
 # django-notesapp
 Notes Sharing App using django(python framework)
 
